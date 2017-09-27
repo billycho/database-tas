@@ -1,0 +1,2 @@
+ DELETE FROM [TasUser]
+ DBCC CHECKIDENT ("TasUser", RESEED, 1);

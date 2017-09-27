@@ -1,0 +1,4 @@
+{
+	"employee":{"employeeId":1,"fullname":"Inez Fiona Sutanto","grade":{"gradeid":1,"jobfamily":"SE","grade":"JP"},"stream":"JWT","active":true,"location":{"locationId":1,"locationName":"Bali"},"accountName":"Inez_S","email":"InezFiona.Sutanto@mitrais.com","accountPassword":"Sanur_2017!","salt":"a","roles":[{"roleId":1,"roleName":"Administrator"},{"roleId":4,"roleName":"Participant"}],"courseParticipant":[]},
+	"pass":false
+}

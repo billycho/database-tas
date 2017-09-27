@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 14.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "prototype-sw_emp-tasuser", "prototype-sw_emp-tasuser\prototype-sw_emp-tasuser.ssmssqlproj", "{A220BCFE-19CE-4CD8-94A2-5C22BEF8BC6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A220BCFE-19CE-4CD8-94A2-5C22BEF8BC6B}.Default|Default.ActiveCfg = Default
+		{09C836B2-46FF-44F8-89D7-59CEABE0F371}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
